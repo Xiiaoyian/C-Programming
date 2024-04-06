@@ -1,0 +1,3 @@
+CSE101,Introduction to Computer Science,90
+MAT202,Calculus II,80
+ENG001,ENGLISH,50
