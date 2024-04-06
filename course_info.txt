@@ -1,3 +1,3 @@
-CSE101,Introduction to Computer Science,90
-MAT202,Calculus II,80
-ENG001,ENGLISH,50
+CSE101,Computer Science,522,Dr. Smith
+MAT202,Calculus II,115,Prof. Johnson
+ENG001,English,521,Dr. Brown
